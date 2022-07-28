@@ -1,4 +1,4 @@
-# Official code for "Logit Mixing Training for More Reliable and Accurate Prediction"
+# "Logit Mixing Training for More Reliable and Accurate Prediction"
 The official code is implemented using Pytorch
 
 ## Setting requirements
