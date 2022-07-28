@@ -1,3 +1,13 @@
+# Official code for "Logit Mixing Training for More Reliable and Accurate Prediction"
+The official code is implemented using Pytorch
+
+## Setting requirements
+>>  pip install -r requirements.txt
+>>  Need to set the dataset directory
+    The default dir is
+    $(pwd)$/Databases/tiny-imagenet-200   for tiny-imagenet dataset
+    $(pwd)$/Databases/cifar/cifar-100-python  for cifar100 dataset
+    
 ## Run
 >> python main.py \
 --network resnet50 \
@@ -10,14 +20,6 @@
 --loss [loss, we recommend to use mse_mixed_logsoftmax] \
 --gpu [gpu number]
 --dataset_dir [dataset directory]
-
-
-## Setting requirements
->>  pip install -r requirements.txt
->>  Need to set the dataset directory
-    The default dir is
-    /home/Databases/tiny-imagenet-200   for tiny-imagenet dataset
-    /home/Databases/cifar/cifar-100-python  for cifar100 dataset
 
 ## Warmup mode makes the training more stable, but it is not necessary.
 
