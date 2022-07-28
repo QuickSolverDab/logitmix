@@ -21,7 +21,8 @@ The official code is implemented using Pytorch
 --gpu [gpu number]  \
 --dataset_dir [dataset directory]  
 
-## Warmup mode makes the training more stable, but it is not necessary.  
+## Etc  
+Warmup mode makes the training more stable, but it is not necessary.  
 
 ## Reference code  
 github.com/weiaicunzai/pytorch-cifar100  
