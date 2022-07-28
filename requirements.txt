@@ -1,0 +1,4 @@
+tensorboardX==1.9
+torchsummary==1.5.1
+tqdm==4.36.1
+
