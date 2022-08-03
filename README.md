@@ -1,7 +1,7 @@
 ## "Logit Mixing Training for More Reliable and Accurate Prediction"
 
 ![image](./Supp/Fig1.png)
-**Figure:** *Visualizationoftheprobabilitydistributiononvarioustrain-ing strategies on the 2D spiral dataset.*
+**Figure:** *Visualization of theprobability distribution on various training strategies on the 2D spiral dataset. (Fig1 in paper)*
 
 > ** Logit Mixing Training for More Reliable and Accurate Prediction ** <br>
 > Duhyeon Bang*, Kyungjune Baek*, Jiwoo Kim, Yunho Jeon, Jin-Hwa Kim, Jiwon Kim, Jongwuk Lee, Hyunjung Shim <br>
