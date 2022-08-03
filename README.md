@@ -3,9 +3,8 @@
 > ** Logit Mixing Training for More Reliable and Accurate Prediction ** <br>
 > Duhyeon Bang*, Kyungjune Baek*, Jiwoo Kim, Yunho Jeon, Jin-Hwa Kim, Jiwon Kim, Jongwuk Lee, Hyunjung Shim <br>
 > (* indicates equal contribution)
-> * International Joint Conference on Artificial Intelligence **IJCAI 2022***
-[[Paper](https://www.ijcai.org/proceedings/2022/0390.pdf)]  
-> # The official code is implemented using Pytorch
+> * International Joint Conference on Artificial Intelligence **IJCAI 2022** [[Paper](https://www.ijcai.org/proceedings/2022/0390.pdf)]  
+> The official code is implemented using Pytorch
 
 When a person solves the multi-choice problem, she considers not only what is the answer but also what is not the answer. Knowing what choice is not the answer and utilizing the relationships between choices, she can improve the prediction accuracy. Inspired by this human reasoning process, we pro-pose a new training strategy to fully utilize inter-class relationships, namely LogitMix. Our strategy is combined with recent data augmentation tech-niques, e.g., Mixup, Manifold Mixup, CutMix, and PuzzleMix. Then, we suggest using a mixed logit, i.e., a mixture of two logits, as an auxiliary training objective. Since the logit can preserve both positive and negative inter-class relationships, it can impose a network to learn the probability of wrong answers correctly. Our extensive experimental results on the image- and language-based tasks demonstrate that LogitMix achieves state-of-the-art performance among recent data augmentation techniques regard-ing calibration error and prediction accuracy.
 
