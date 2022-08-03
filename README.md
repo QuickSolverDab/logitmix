@@ -3,7 +3,6 @@
 ![image](./Supp/Fig1.png)
 **Figure:** *Visualization of theprobability distribution on various training strategies on the 2D spiral dataset. (Fig1 in paper)*
 
-> ** Logit Mixing Training for More Reliable and Accurate Prediction ** <br>
 > Duhyeon Bang*, Kyungjune Baek*, Jiwoo Kim, Yunho Jeon, Jin-Hwa Kim, Jiwon Kim, Jongwuk Lee, Hyunjung Shim <br>
 > (* indicates equal contribution)
 > * International Joint Conference on Artificial Intelligence **IJCAI 2022**
