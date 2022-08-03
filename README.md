@@ -17,7 +17,7 @@ When a person solves the multi-choice problem, she considers not only what is th
 pip install -r requirements.txt
 ```
 > Need to set the dataset directory  
-  The default dir is
+  The default dir is  
   $(pwd)$/Databases/tiny-imagenet-200   for tiny-imagenet dataset  
   $(pwd)$/Databases/cifar/cifar-100-python  for cifar100 dataset  
 
