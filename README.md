@@ -1,6 +1,6 @@
 # "Logit Mixing Training for More Reliable and Accurate Prediction"
 
-![image](./Supp/picture.png)
+![image](./Supp/picture.png){: width="50%" height="50%"}
 **Figure:** *Visualizationoftheprobabilitydistributiononvarioustrain-ing strategies on the 2D spiral dataset.*
 
 > ** Logit Mixing Training for More Reliable and Accurate Prediction ** <br>
